@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159291498397",
+    "project_id": "catchstar-850e5",
+    "storage_bucket": "catchstar-850e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159291498397:android:e122e02d155ec8bbc9d974",
+        "android_client_info": {
+          "package_name": "com.example.catchstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159291498397-k7e2sj3bi4bihiuof7vkjn7qnbmqoeuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQkDUrAot0BnpbMzDonMiGp3tSZpCRwdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159291498397-k7e2sj3bi4bihiuof7vkjn7qnbmqoeuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
